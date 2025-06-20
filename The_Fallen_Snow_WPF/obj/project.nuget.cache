@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5hZU81/eMXc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucifer Frost\\Desktop\\Гит Курсач\\Проект\\The_Fallen_Snow_WPF\\The_Fallen_Snow_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucifer Frost\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Lucifer Frost\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Lucifer Frost\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Lucifer Frost\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
